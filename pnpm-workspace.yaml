@@ -1,2 +1,2 @@
-onlyBuiltDependencies:
-  - sharp
+# This is a single Next.js app, not a workspace
+# Workspace configuration has been removed
